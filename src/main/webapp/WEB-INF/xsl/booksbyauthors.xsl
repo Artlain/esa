@@ -21,7 +21,7 @@
         </html>
     </xsl:template>
     <xsl:template match="ArrayList">
-        <h2>BooksByAuthors</h2>
+        <h2>Books with page count</h2>
         <table>
             <tr>
                 <th>name</th>
